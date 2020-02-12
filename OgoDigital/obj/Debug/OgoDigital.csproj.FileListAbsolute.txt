@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\OgoDigital\OgoDigital\bin\Debug\OgoDigital.exe.config
+C:\Users\USER\source\repos\OgoDigital\OgoDigital\bin\Debug\OgoDigital.exe
+C:\Users\USER\source\repos\OgoDigital\OgoDigital\bin\Debug\OgoDigital.pdb
+C:\Users\USER\source\repos\OgoDigital\OgoDigital\obj\Debug\OgoDigital.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\OgoDigital\OgoDigital\obj\Debug\OgoDigital.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OgoDigital\OgoDigital\obj\Debug\OgoDigital.exe
+C:\Users\USER\source\repos\OgoDigital\OgoDigital\obj\Debug\OgoDigital.pdb
